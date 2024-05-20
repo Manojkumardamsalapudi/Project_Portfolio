@@ -320,7 +320,7 @@ st.write("---")
 me,m_det=st.columns([3,7])
 
 with me:
-    with open('Project_portfolio/WhatsApp Image 2023-12-19 at 16.56.45.jpeg','rb') as img:
+    with open('Project_portfolio/Screenshot 2024-05-20 211443.png','rb') as img:
         my_img=img.read()
         st.image(imgtocir(Image.open(io.BytesIO(my_img))),width=250)
 
@@ -332,7 +332,7 @@ with m_det:
     )
     st.markdown(
         f'<div style="font-size: 30px; font-weight: bold; color: #687F8D; padding: 10px; text-align: left;">'
-        f'SAGAR.E</div>',
+        f'Manoj.M</div>',
         unsafe_allow_html=True
     )
     st.markdown(
