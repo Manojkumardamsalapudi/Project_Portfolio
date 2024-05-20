@@ -344,7 +344,7 @@ with m_det:
 
     l1,l2,l3,_,_=st.columns(5)
     with l1:
-        label_as_button = f'<a href="https://github.com/sagareddum" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Git-Hub</a>'
+        label_as_button = f'<a href="https://github.com/Manojkumardamsalapudi" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Git-Hub</a>'
         st.markdown(label_as_button, unsafe_allow_html=True)
 
     with l2:
