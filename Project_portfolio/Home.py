@@ -332,7 +332,7 @@ with m_det:
     )
     st.markdown(
         f'<div style="font-size: 30px; font-weight: bold; color: #687F8D; padding: 10px; text-align: left;">'
-        f'Manoj.M</div>',
+        f'Manoj.D</div>',
         unsafe_allow_html=True
     )
     st.markdown(
