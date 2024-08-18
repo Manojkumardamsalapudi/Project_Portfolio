@@ -348,11 +348,11 @@ with m_det:
         st.markdown(label_as_button, unsafe_allow_html=True)
 
     with l2:
-        label_as_button = f'<a href="https://drive.google.com/file/d/1f4hFTmV8uI8lR3gSgq6iZU0z5ytlJ7Cr/view?usp=drive_link" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Resume</a>'
+        label_as_button = f'<a href="https://drive.google.com/file/d/1A_mzHLBSnYFYvZV2KPH8qStrXgDRQvSW/view?usp=drivesdk" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Resume</a>'
         st.markdown(label_as_button, unsafe_allow_html=True)
 
     with l3:
-        label_as_button = f'<a href="https://www.linkedin.com/in/sagar-e-95ba80217/" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Linkedin</a>'
+        label_as_button = f'<a href="https://www.linkedin.com/in/manoj-kumar-19227024a/" target="_blank" style="font-size: 25px; font-weight: bold;  color: #687F8D; text-decoration: none; cursor: pointer;">Linkedin</a>'
         st.markdown(label_as_button, unsafe_allow_html=True)
 
 
